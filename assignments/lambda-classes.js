@@ -87,7 +87,6 @@ const fred = new Person({
     gradClassName: 'web_24A',
     previousBackground: 'cook',
     className: 'web_24'
-
   })
 
   const john = new Student({
